@@ -3,3 +3,9 @@
 ### About Me
 I am a norwegian Front-End developer, currently a student at Noroff - School of technology and digital media.
 I love using my creativity to create user-friendly websites and apps. 
+
+
+### Social
+* [chris.stjernberg@gmail.com]
+* [LinkedIn](www.linkedin.com/in/christoffer-stjernberg-276875204/)
+
