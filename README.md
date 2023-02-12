@@ -4,8 +4,13 @@
 I am a norwegian Front-End developer, currently a student at Noroff - School of technology and digital media.
 I love using my creativity to create user-friendly websites and apps. 
 
+### Skills
+* HTML & CSS
+* JavaScript
+* React
 
-### Social
-* [chris.stjernberg@gmail.com]
+### Contact
+* chris.stjernberg@gmail.com
 * [LinkedIn](www.linkedin.com/in/christoffer-stjernberg-276875204/)
+
 
